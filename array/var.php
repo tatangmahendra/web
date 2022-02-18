@@ -1,0 +1,1 @@
+var binatang =['kelinci','kucing','kuda','harimau','singa'];
